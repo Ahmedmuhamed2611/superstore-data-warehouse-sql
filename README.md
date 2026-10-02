@@ -3,7 +3,7 @@
 ## Project Overview
 This project transforms raw operational retail data from the Central Superstore dataset into a highly structured, analytical data warehouse. Built using SQL Server and PostgreSQL, the architecture establishes a robust and scalable foundation for business intelligence and automated reporting.
 
-**Final Grade:** 100/100 🏆
+**Final Grade:** 92/100 🏆
 
 ---
 
